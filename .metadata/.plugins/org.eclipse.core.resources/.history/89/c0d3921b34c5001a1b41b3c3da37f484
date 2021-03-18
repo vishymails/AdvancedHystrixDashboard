@@ -1,0 +1,5 @@
+package com.ibm.moviecatalogservice.services;
+
+public class MovieInfo {
+
+}
